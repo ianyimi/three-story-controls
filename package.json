@@ -2,7 +2,7 @@
   "name": "three-story-controls",
   "version": "1.0.6",
   "description": "A three.js camera toolkit for creating interactive 3d stories",
-  "main": "dist/three-story-controls.esm.min.js",
+  "main": "dist/three-story-controls.min.js",
   "module": "dist/three-story-controls.esm.min.js",
   "typings": "./lib/three-story-controls.d.ts",
   "license": "Apache-2.0",
