@@ -4,7 +4,6 @@
   "description": "A three.js camera toolkit for creating interactive 3d stories",
   "main": "dist/three-story-controls.esm.min.js",
   "module": "dist/three-story-controls.esm.min.js",
-  "type": "module",
   "typings": "dist/three-story-controls.d.ts",
   "license": "Apache-2.0",
   "repository": {
